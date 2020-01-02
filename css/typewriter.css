@@ -1,5 +1,5 @@
 .typewriter h2{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Courier, monospace;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .05em solid orange; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */

@@ -82,7 +82,7 @@ body {
 }
 h2 {
   text-transform: uppercase;
-  font-size: 3vw;
+  font-size: 5vw;
   font-weight:0;
   color: #ffffff;
   
@@ -145,3 +145,19 @@ p {
     height: 4px;
   }
 }
+#myl:link, #myl:visited{
+  
+    background-color:black;
+    color: whitesmoke;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.5vw;
+  }
+  
+  #myl:hover, #myl:active {
+    background-color: paleturquoise;
+  }
+
+ 
